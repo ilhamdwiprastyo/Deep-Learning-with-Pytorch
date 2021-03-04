@@ -6,5 +6,9 @@ Ada banyak project yang berkaitan dengan algoritma deep learning diantaranya CNN
 Berikut link download untuk masing-masing dataset:
 - Neural Network <br>
 https://docs.google.com/uc?export=download&id=18HrEyxnoIFd6JZUxItzAs8SEyJmiduwI
-- Convolutional Neural Network
+- Convolutional Neural Network <br>
 https://docs.google.com/uc?export=download&id=1YKXn0P_jw9LsHfmO6hHilP9hpUvZl666
+- Transfer Learning <br>
+https://docs.google.com/uc?export=download&id=1ISmhOvAegLGh_yhGvDtzfp1FZ4ORJ8sQ
+- Recurrent Neural Network <br>
+https://docs.google.com/uc?export=download&id=1cgfeeqeIkINiTp5XSfPgCF2_3SOUsVJ8
