@@ -1,6 +1,6 @@
 # Deep Learning Basics by J.COp
 Disini saya belajar dari materi yang diberikan "JCOp Untuk Indonesia" yang disampaikan langsung oleh mas WiraDKP <br>
-Apabila ada yang kurang jelas atau kurang lengkap dari tulisan saya ini bisa langsung mengunjungi github mas WiraDKP sendiri berikut linknya :<br>
+Apabila ada yang kurang jelas atau kurang lengkap dari tulisan saya ini bisa langsung mengunjungi github mas WiraDKP sendiri berikut linknya :
 https://github.com/WiraDKP
 
 # Starter Guide
