@@ -4,9 +4,16 @@ Apabila ada yang kurang jelas atau kurang lengkap dari tulisan saya ini bisa lan
 https://github.com/WiraDKP
 
 # Starter Guide
-Note: sebelum belajar deep learning dari materi "JCOp Untuk Indonesia" sebaiknya ikuti langkah" berikut untuk menginstall miniconda dan menginstall environment dari mas Wira. Untuk materi atau pembelajaran selanjutnya bisa dibuka di repositories saya lainnya seperti (NN with pytorch, CNN with pytorch, RNN with pytorch, Transfer Learning with pytorch, dll.)
+Note: sebelum belajar deep learning dari materi "JCOp Untuk Indonesia" sebaiknya ikuti langkah" berikut untuk menginstall miniconda dan menginstall environment dari mas Wira. Untuk pembelajaran selanjutnya bisa dibuka di repositories saya lainnya seperti (NN with pytorch, CNN with pytorch, RNN with pytorch, Transfer Learning with pytorch, dll.)
 
-## Step 1: Instalasi Miniconda
+## Step 1: Download materi
+- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/deep_learning/zip/master), atau
+- Bagi yang familiar dengan git, boleh menggunakan clone
+    ```
+    git clone https://github.com/WiraDKP/deep_learning.git
+    ```
+
+## Step 2: Instalasi Miniconda
 ### **Windows user**
 - Download miniconda untuk Python 3.7
     - Klik link ini untuk download: [Miniconda Windows 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
@@ -46,13 +53,13 @@ Note: sebelum belajar deep learning dari materi "JCOp Untuk Indonesia" sebaiknya
     
 - hanya untuk memastikan, tutup dan buka terminal lagi
 
-## Step 2: Instalasi Jupyter 
+## Step 3: Instalasi Jupyter 
 - Kita akan install 2 hal di base environment
     ```
     conda install --name base jupyter nb_conda_kernels
     ```
 
-## Step 3: Instalasi Environment
+## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
     cd deep_learning/
@@ -62,7 +69,7 @@ Note: sebelum belajar deep learning dari materi "JCOp Untuk Indonesia" sebaiknya
     conda env create -f env_jcop.yml
     ```
 
-## Step 4: Memastikan environment terinstall dengan baik
+## Step 5: Memastikan environment terinstall dengan baik
 - Jalankan command berikut untuk mengecek instalasi dan ikuti instruksi yang dihasilkan
     ```
     python check_installation.py
